@@ -3,3 +3,5 @@ Angelina	32.75	41.00
 Jordan	18.75	22.5
 Annalise	16.17825	25.0
 Andrew	22.5	38.0
+Robbie	50	30
+Jeremy	20	10
