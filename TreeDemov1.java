@@ -115,8 +115,11 @@ class Node{
 	   with a smallest key
 	   */
 	   public int getMin(Node root){
-         //implement in here
-	      
+		Node current = root;
+		while (current.left != null) {
+			current = current.left;
+		}
+		return current.value;
 	   }
 	  
 	  
